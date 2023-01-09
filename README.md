@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi 👋 My nane is Kedar Sawant
+I am a React Developer by passion who specialises in creating minimalistic websites.
 
-<!--
-**profoundr/profoundr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From here on out, it's just Onwards and Upwards 🚀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍  I'm based in Mumbai, India
+✉️  You can contact me at kedar.sawant@gmail.com
+🤝 Open to collaborating on open-source projects, startups or anything that involves building/creating something!
+
+Skills
+React
+Typescript
+Python
+
+Socials
+
+Badges
+My GitHub Stats
+
+
+
+
