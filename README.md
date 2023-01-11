@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reubence" alt="reubence" /> </p>
+
 
 Hi 👋 My name is Kedar Sawant
 ==============================
