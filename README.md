@@ -23,7 +23,7 @@ Below are some projects I’ve built, along with the technologies used:
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://neatmethod.com/">
-        <img src="https://portfolio-site-ztsp.vercel.app/portfolio-images/image_1.png" width="300" style="border: 2px solid #eaeaea; border-radius: 8px;"/>
+        <img src="https://raw.githubusercontent.com/profoundr/profoundr/refs/heads/main/Group%20514081.png" width="300" style="border: 2px solid #eaeaea; border-radius: 8px;"/>
       </a>
       <br/><strong>Neat Method<br/>(E-Commerce)</strong>
       <br/><sub>
@@ -33,7 +33,7 @@ Below are some projects I’ve built, along with the technologies used:
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://www.dbrief.io/">
-        <img src="https://portfolio-site-ztsp.vercel.app/portfolio-images/image_3.png" width="300" style="border: 2px solid #eaeaea; border-radius: 8px;"/>
+        <img src="https://raw.githubusercontent.com/profoundr/profoundr/refs/heads/main/Group%20514086.png" width="300" style="border: 2px solid #eaeaea; border-radius: 8px;"/>
       </a>
       <br/><strong>Dbrief<br/>(SaaS)</strong>
       <br/><sub>
@@ -45,7 +45,7 @@ Below are some projects I’ve built, along with the technologies used:
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://togetherwomenshealth.com/">
-        <img src="https://portfolio-site-ztsp.vercel.app/portfolio-images/image_2.png" width="300" style="border: 2px solid #eaeaea; border-radius: 8px;"/>
+        <img src="https://raw.githubusercontent.com/profoundr/profoundr/refs/heads/main/Group%20514085.png" width="300" style="border: 2px solid #eaeaea; border-radius: 8px;"/>
       </a>
       <br/><strong>Together Women's Health</strong>
       <br/><sub>
