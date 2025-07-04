@@ -28,6 +28,7 @@ Below are some projects I’ve built, along with the technologies used:
       <br/><strong>Neat Method<br/>(E-Commerce)</strong>
       <br/><sub>
         <img src="https://img.shields.io/badge/Shopify_Hydrogen-9563FF?style=flat-square&logo=shopify&logoColor=white" alt="Shopify Hydrogen"/>
+        <img src="https://img.shields.io/badge/Algolia-050F2C?style=flat-square&logo=algolia&logoColor=white" alt="Algolia"/>
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
       </sub>
     </td>
@@ -37,10 +38,9 @@ Below are some projects I’ve built, along with the technologies used:
       </a>
       <br/><strong>Dbrief<br/>(SaaS)</strong>
       <br/><sub>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="React"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-        <img src="https://img.shields.io/badge/Algolia-050F2C?style=flat-square&logo=algolia&logoColor=white" alt="Algolia"/>
       </sub>
     </td>
     <td align="center" style="padding: 10px;">
